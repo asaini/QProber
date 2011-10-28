@@ -1,0 +1,17 @@
+This project has to do with Web "Databases" and consists of 2 parts.
+
+Part 1 : Implements a web database classification algorithm that is described in "QProber: A System for Automatic Classification of Hidden-Web Databases" bye Gravano, Ipeirotis, and Sahami
+
+Part 2 : Implements a simplified version of content-summary extraction algorithm, which is fully described in "Classification Aware Hidden-Web Text Database Selection" by Ipeirotis and Gravano
+
+
+To run the program:
+$ python qproberGeneric.py
+
+Once running, it will ask for the following parameters
+
+Coverage Threshold, Eg: 100
+Specificity Threshold, Eg: 0.6
+Database Url, Eg: www.diabetes.org
+
+
