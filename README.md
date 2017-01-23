@@ -1,6 +1,6 @@
 ## Web Based Databases
 
-This project consists of 2 parts:
+This project usage is restricted to Educational & Research purposes only. It consists of 2 parts:
 
 ### Part 1
 
